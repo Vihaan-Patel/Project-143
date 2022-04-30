@@ -1,0 +1,57 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+ width: 100%;
+ text-align: left;   
+}
+
+.heading h3
+{
+display: inline;
+}
+
+.heading button
+{
+  float: right; 
+  border: 1px solid white; 
+}
+
+.big_image
+{
+  width: 100%;  
+}
+
+#start,#status,#restart_button
+{
+  font-size: 22px;  
+}
+
+h4
+{
+background-color: white;
+line-height: 2;
+text-align: center;
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
+
+.modal-dialog
+{
+ width: 90%; 
+}
+.instruction_image
+{
+ display: inline-block;
+ width: 45%; 
+}
+
+canvas 
+{
+border: 2px black solid;
+box-shadow: 5px 5px 5px blue;
+}
